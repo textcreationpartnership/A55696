@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parable of the magpies</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55696</idno>
+            <idno type="STC">Wing P323B</idno>
+            <idno type="STC">ESTC R40055</idno>
+            <idno type="EEBO-CITATION">18674761</idno>
+            <idno type="OCLC">ocm 18674761</idno>
+            <idno type="VID">108149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55696)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108149)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1658:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parable of the magpies</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Griffitts,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Advertisement: p. 4.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1689-1702 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:108149:1" rendition="simple:additions"/>
+            <head>THE PARABLE OF THE MAGPIES.</head>
+            <p>THIS is an <hi>Age of Riddles,</hi> the World is becoms a mere Fairy-Land, inhabit<g ref="char:EOLhyphen"/>ed by Chimera's Monſters, Elfes and Changelings; Men act as if were at <hi>Croſs pur<g ref="char:EOLhyphen"/>poſes,</hi> and therefore wonder not if the Preſs brings for <hi>Parables.</hi>
+            </p>
+            <p>The late Prevarication and Flight of a cer<g ref="char:EOLhyphen"/>tain <hi>Overſeer</hi> of the <hi>Levites</hi> in a ſmall Iſland, puts me in mind of a Tale, which is not to be found in all <hi>Aeaſop</hi>'s <hi>Fables,</hi> and yet it runs much after the ſame manner. Take it as follows:</p>
+            <p>There was a time when all the <hi>Birds in the Air</hi> were ſummon'd to ſwear Allegiance to the <hi>EAGLE,</hi> whom by unanimous conſent, they had choſen to be their King. The <hi>OSTRIDG</hi> who reign'd over them before, having deſerted his Government, (as is the manner of that un<g ref="char:EOLhyphen"/>natural Bird,) and ſo the Throne vacant. Now the <hi>EAGLE</hi> had gain'd the Hearts and Affecti<g ref="char:EOLhyphen"/>ons of all the <hi>feather'd</hi> Kinds: The <hi>Falcons, Herns, Storks, Swallows, Larks,</hi> and inumerable other ſorts of High-flying Birds came in and <hi>took the Oath,</hi> eſpecially the <hi>Black-birds,</hi> were very promt and ready to give all the Demon<g ref="char:EOLhyphen"/>ſtrations of their Loyalty they were capable of. To theſe joyn'd the <hi>Nightingales,</hi> and <hi>Thruſhes,</hi> a harmleſs chearful ſort of Birds, that were al<g ref="char:EOLhyphen"/>ways merry in the midſt of Afflictions, and wou'd ſing beſt when pric'k with Briers and Thorns. They all ſwore Loyalty to the <hi>EAGLE.</hi> charpt and carol'd his Praiſes, ſo that the Hills and Valleys, Foreſt and Plains, echo'd his Re<g ref="char:EOLhyphen"/>nown: they alſo formed themſelves into <hi>Troops,</hi> and had the over ſight of all inferior <hi>Magpies,</hi> and follow'd him to the Wars; for the <hi>abdicat<g ref="char:EOLhyphen"/>ed OSTRICH</hi> having fled to the <hi>V<g ref="char:V">Ʋ</g>LT<g ref="char:V">Ʋ</g>RE</hi> for protection, and made a League with Him, came with huge Armies and invaded the <hi>Eagles Dominions;</hi> But the <hi>Black birds, Nightingales</hi> and <hi>Thruſhes,</hi> as I have ſaid, ſtood firm to Him, and drove away his Enemies, being reſolved never to forſake Him, till they have ſubdued the: <hi>OSTRICH</hi> and the <hi>V<g ref="char:V">Ʋ</g>LT<g ref="char:V">Ʋ</g>RE,</hi> with all that adhere to them.</p>
+            <p>Now among all the <hi>Birds</hi> that lived under the Eagles Government; none were ſo Treacherous and Diſloyal as ſome <hi>MAGPIES,</hi> a Bird of two colours, Double-tongu'd, and much addicted to Quibbles and mental Reſer<g ref="char:EOLhyphen"/>vations; yet ſome of theſe took the <hi>Oath of Allegiance</hi> to the <hi>EAGLE:</hi> But others ſtood out, and chatter'd againſt it, ſquinting at all ſuch as took it. There was one <hi>Old One</hi> that had his Neſt by a River-ſide, he was the <hi>Ring<g ref="char:EOLhyphen"/>leader of the Nonſwearing</hi> MAGPIE, a ſurly Old Maggot that wou'd not come near the <hi>EAGLES</hi> Court, nor ſo much as chatter out a How-d'ye to Him, but kept hiving in's Neſt under pretence of Illneſs. To him there re<g ref="char:EOLhyphen"/>ſorted daily the other <hi>Non-ſwearing</hi> MAGPIES, with great numbers of <hi>Jack-daws, Rooks, Swallows</hi> and <hi>Martins,</hi> that the MAGPIES had drawn into their Sedition. From him they re<g ref="char:EOLhyphen"/>ceiv'd Inſtructions, and took there Maſures, how to behave themſelves in their their ſeveral reſpective Diſtricts, (for ſome of them were DIGNIFY'D MAGPIES, <hi>Jackdaws, Rooks, Swallows,</hi> and <hi>Martins,</hi> in ſuch and ſuch a Province of the Eagles Do<g ref="char:EOLhyphen"/>minions,) and when they had ſufficiently learn'd their Cue, away they flew to their Charges, and made it their buſineſs to preach up <hi>Non-ſwearing, Non obeying, Non. fighting,</hi> &amp;c. as formerly they had done <hi>Non-reſiſting;</hi> for all their Doctrines ran upon <hi>Nons</hi> and <hi>Negatives,</hi> the Daughters of <hi>Paſſive Obedinece.</hi>
+            </p>
+            <p>By theſe Arts they drew to their Party great Numbers of <hi>Geeſe, Owls, Buzzards,</hi> and ſuch like <hi>ſilly</hi> birds, who flutter'd together at certain times, and kept their <hi>Night Cabals,</hi> plotting Treaſon againſt the EAGLE, and contriving how to reſtore the <hi>Abdicated OSTRICH</hi> to the Crown. To this end, they held a private Cor<g ref="char:EOLhyphen"/>reſpondence
+<pb n="2" facs="tcp:108149:2"/>with Him, and the VULTURE inviting them to ſend an Army to invade the EAGLES Dominions, and promiſing them all manner of Aſſiſtance and readineſs to join with them at their firſt Appearance:</p>
+            <p>Amongſt the reſt of the <hi>Dignify'd MAGPIES</hi> concern'd in this Plot, there was one <hi>arch Wagg</hi> more active than the reſt, who having learn'd the way of training up Pigeons to carry Let<g ref="char:EOLhyphen"/>ters (as uſual at <hi>Aleppo</hi> and <hi>Babylon,</hi>) write two Letters, one to the OSTRICH, and another to his Mate. The Tenor whereof is as follows:</p>
+            <floatingText type="letter">
+               <body>
+                  <head>To the <hi>OSTRICH.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THE <hi>PIDGEON</hi> who brings this Diſpatch, will be our Credentials, in giving you ſuch an Aſſurance of our unfeigned Duty and Fidelity, as will be adequate to your very Wiſhes: Yet pardon an Error, which (if it be one) is the effect of my Ambition, to ſatisfy you from my own Mouth, and give you this Teſtimony under my <hi>Claw,</hi> That I ſhall ſnatch every opportunity, not ſlighting the leaſt, and laying wait for the greateſt, to acquit our ſelves your devoted Friends.</p>
+                  <p>
+                     <hi>SIR!</hi> I write in the <hi>Plural,</hi> becauſe I deliver the ſenſe of the <hi>Chief MAGPY</hi> as well as mine own, and the others of our Neſt; Who tho diminiſht in number, yet, if our Arithmetick does not fail us, we have no Cyphers amongſt us, but are ma<g ref="char:EOLhyphen"/>king a progreſſion in our Intereſts, that is, <hi>in Yors.</hi>
+                  </p>
+                  <p>The Bearer will, I preſume, give you a true Character of us, when he ſhall ſatisfy you, That we are really what we ſend our ſelves,</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Decemb. 31.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Yours intirely. I wiſh you the merrieſt New Year.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <head>To the OSTRICH'S Mate.</head>
+                  <p>AS I am not able to <hi>chatter</hi> out the unparal<g ref="char:EOLhyphen"/>lel'd Complacency I took this time Twelve<g ref="char:EOLhyphen"/>month, in receiving that Token of your Condeſcenſion and Clemency, under your own <hi>Claw.</hi> So I have hopt about ever ſince in no ſmall uneaſineſs, for want of the means to return you my humble Thanks, and renew my ſolemn Proteſtations of unfeigned Loyalty. From which, if I ever flinch, may my <hi>Wings be clipt,</hi> and I be never able to mount above a <hi>Graſhoppers Leap</hi> from the Ground. This I declare in the Name of the <hi>Chief MAGPY,</hi> and the reſt of our Feather, as well as on my own ſcore. You may repoſe an entire confidence in us, nor only for our unchangeable Faſtneſs in the Practice of ſo juſt and well-grounded a Reſolution; But alſo for our moſt vigorous endeavours to advance your Cauſe, <hi>which is our own,</hi> beyond the poſſibility of a Separation.</p>
+                  <p>There is no neceſſity, that I ſhould particula<g ref="char:EOLhyphen"/>rize, ſince the <hi>Pidgeon</hi> who bears this, can and-will diſcover to you the bottom of our Hearts. I wiſh you could penetrate into them, to behold the Sincerity and Devotion with which we conſecrate our ſelves to your Service. I wiſh you a <hi>jolly New-Year,</hi> and numerous, <hi>a</hi> very numerous ſequel of them, and all very merry ones. Your <hi>Young Heir</hi> we hear is well fledg'd, he has our moſt paſſionate Vows. His Friends encreaſe daily, and his Adverſaries loſe ground.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Decemb. 31.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>After <hi>Margery</hi> had writ theſe Letters, (for you muſt note by the way, that theſe things were done, when <hi>Birds and Beaſts</hi> were as good Scholars as men,) he began to <hi>whit his Bill,</hi> plum his Feathers, and hop about, to the Tune of <hi>Packington</hi>'s <hi>Pound.</hi> He thought he had conquer'd the World, and got both the <hi>Indies</hi> in his <hi>Claws.</hi> But alack and well-a-day! the <hi>Pidgeon</hi> that carry'd 'em was ſeiz'd and all the Roguery diſcover'd, and <hi>poor MAG</hi> was fain to hop out of ſight fort. For the EAGLE had a Cock belonging to him, who was very wake<g ref="char:EOLhyphen"/>ful, and his Name was <hi>Chanticleer:</hi> This Cock had always a ſhrewd Eye to the MAGPIES, and their Gang; he watch'd all their motions, ſo that they could hardly mute, but he was privy to't. 'Twas he that ſeizjd on the <hi>Pidgeon,</hi> and brought him to the EAGLES Palace, loa<g ref="char:EOLhyphen"/>den with Letters to the OSTRICH and the VULTURE; among the Reſt were theſe two of <hi>Margeries own Penning.</hi> Upon which <hi>Margery</hi> very prudently changed Colours, and turn'd his White and Black into a <hi>deep Red,</hi> and ſo flew away toward the VULTURE'S Territo<g ref="char:EOLhyphen"/>ries, there to Chatter at large the Contents of his Fawning Letters.</p>
+            <p>This MAGPY had the Charecter of a flat<g ref="char:EOLhyphen"/>tering, ſelfiſh perfidious, inſinuating Bird. He it was that formerly Crown'd the OSTRICH, &amp; be<g ref="char:EOLhyphen"/>ing afterwards diſcontented at the OSTRICHE'S
+<pb n="3" facs="tcp:108149:2"/>Government, with others of his Feather, ſent and invited the EAGLE to come and reſcue them from the OSTRICHE'S Tyranny: But as ſoon as he had gratify'd them in that, and the EAGLE had by the general conſent of all the Birds, taken poſſeſſion of the OSTRICHE'S va<g ref="char:EOLhyphen"/>cant Throne, this Falſe hearted MAGPY and his Complices turn tail ſquint at his Proceed<g ref="char:EOLhyphen"/>ings, ſlight his Favour, and make ſuch a <hi>Chat<g ref="char:EOLhyphen"/>tering,</hi> that all the honeſt Birds were juſtly of<g ref="char:EOLhyphen"/>fended at the Noiſe. Yet ſome of the <hi>OS<g ref="char:EOLhyphen"/>TRICHE</hi>'S Creatures began to liſten to them with delight, and ſuch Artifice was uſed, that many ſimple, well-meaning Birds, were delud<g ref="char:EOLhyphen"/>ed into the MAGPIES <hi>Faction.</hi>
+            </p>
+            <p>It ought to be remember'd here, That there was an old Grudge between the <hi>MAGPIES</hi> and the <hi>BLACK-BIRDS,</hi> the former being con<g ref="char:EOLhyphen"/>ſcious of the harſh, grating Noiſe they made, envy'd and perſecuted the latter with their Followers, the <hi>Nightingales</hi> and <hi>Thruſhes,</hi> be<g ref="char:EOLhyphen"/>cauſe of the <hi>ſweet harmonious Notes they ſung in the</hi> Woods <hi>and</hi> Groves, which drew all the Birds, into Admiration of their Melody! So that multitudes of the MAGPIES Party aban<g ref="char:EOLhyphen"/>don'd them, and went over to the <hi>Black-Birds:</hi> Nay, ſome of the MAGS themſelves were ſo en<g ref="char:EOLhyphen"/>amour'd of the <hi>Black-Birds</hi> Muſick and innocent manner of like that they voluntarily under<g ref="char:EOLhyphen"/>went a Metamorphiſis and became <hi>Black-Birds:</hi> But there were but a few of theſe, and they were of the inferiour MAGPIES. However, the great ones were highly incens'd at this De<g ref="char:EOLhyphen"/>ſertion of ſome of their own Feather, and whole <hi>Coveys</hi> of their Followers. Whereupon they got the OSTRICHES, EAGLES, or whoſoe<g ref="char:EOLhyphen"/>ver was King of the Birds at that time, to e<g ref="char:EOLhyphen"/>rect. <hi>High-Commiſſion Coarts,</hi> Star-Chambers, and other Seats of Judicature, whither the <hi>Black Birds</hi> were cited, and there were ſencenc'd to Impriſonment, pecuniary Mulcts, and whatſo<g ref="char:EOLhyphen"/>ever elſe the <hi>MAGPIES</hi> pleas'd to inflict on them. This grew in time to be a great Grie<g ref="char:EOLhyphen"/>vance in the <hi>Common-wealth of Birds;</hi> ſo that in proceſs of time, theſe Animoſities were im<g ref="char:EOLhyphen"/>prov'd into a Civil War During which the <hi>Cheif MAGPY</hi> (even the Predeceſſor of him whom I before mention'd, the Old ſurly Non-ſwearing MAGPY, whoſe Neſt was by a River<g ref="char:EOLhyphen"/>ſide,) loſt his Head, for endeavouring to force the <hi>Black Birds</hi> to wear his Colours, and for other illegal Impoſitions againſt the Laws of Nature, and the general ſenſe of all the Birds in the Air. After him, the whole Generation of <hi>MAGPIES</hi> went to Pot, except ſuch as won'd turn <hi>Black Birds.</hi>
+            </p>
+            <p>But in twelve years time the <hi>MAGPIE'S</hi> Intereſt fac'd about again, and they fell to their old Trade of Domineering, Perſecuting, and Tyrannizing over the <hi>Black Birds.</hi> Which continu'd till the <hi>OSTRICH</hi> came to be Crown'd; when he for his own Ends took the Laſh out of the <hi>MAGPIES CLAWS,</hi> at which they chatter'd and ſhapt, with their Bills, huff'd and bounc'd; and tho they themſelves had brought the <hi>OSTRICH</hi> to the Throne, yet now they grew weary of Him, and never wou'd be at quiet, till they had chaſed him away again, and brought the <hi>EAGLE</hi> to the Crown; and becauſe he wou'd not countenance their oppreſſion of the <hi>Black Birds,</hi> therefore they forſook him alſo, and his Intereſt, and en<g ref="char:EOLhyphen"/>deavour'd to calumniate the Loyalty, Service and Zeal of the <hi>Blackbirds,</hi> who ſtood ſtoutly to him at all turns.</p>
+            <p>During theſe <hi>Bickerings</hi> and ill Offices be<g ref="char:EOLhyphen"/>tween the <hi>MAGPIES</hi> and the <hi>Black Birds,</hi> it was thought convenient, that a Publick Con<g ref="char:EOLhyphen"/>vocation of the former, ſhou'd be call'd for an <hi>Accomodation.</hi> But all came to nothing; for the Proſocuter of the <hi>MAGPIES,</hi> having ſcrap'd the Ground with his <hi>Reverend Claws,</hi> and almoſt kiſs'd it with a ſubmiſſiive Bow of his learned Noddle; made an Oration to this Effect, <hi>That if the leaſt Feather or Straw were pluck'd out of their old weather beaten Neſt,</hi> all wou'd either fall to the ground, or be blown away by the Wind, and ſo their young ones would be forc'd to take ſhelter in the <hi>Black Birds Quarters.</hi> To this eloquent: Harangue, the reſt of the <hi>MAGPIES</hi> all ſaid <hi>Amen</hi> And ſo the matter lies where it did before, between two Stools. <hi>Sub judice Lis eſt.</hi> Yet 'tis thought that if the <hi>Black Birds</hi> could but obtain a fair and equal hearing of their Cauſe, they would ſoon make the <hi>MAGPIES</hi> aſham'd of their Ty<g ref="char:EOLhyphen"/>rannous, proud, covetous Actions; and con<g ref="char:EOLhyphen"/>vince the World that thoſe <hi>Pre-bald</hi> Birds re<g ref="char:EOLhyphen"/>garded nothing, but the ſatisfaction of their Ambitious Deſigns, Self-will, Luſt and Avarice.</p>
+            <p>Theſe running <hi>PIES</hi> will not always appear above board themſelves, but are in Fee with <hi>Hawks, Falcons,</hi> and ſuch like Birds of Prey, who are their Setters for any Game. Thus they once employ'd a hundred and ſeventeen of theſe <hi>Ravenous Birds</hi> to joyn in a Petition to the <hi>Eagle</hi>'s Grand Council of State, againſt the <hi>Phoenix,</hi> who was made Governour over
+<pb n="4" facs="tcp:108149:3" rendition="simple:additions"/>the <hi>Eagle's</hi> Chief Grove, and had kept his place for two years together, but becauſe he was a faithful Friend, and Loyal Subject to the <hi>Eagle,</hi> and was entring upon his <hi>third year</hi> of Govern<g ref="char:EOLhyphen"/>ment, the <hi>Magpies</hi> chatter'd, and ſet the <hi>Hawks</hi> and <hi>Falcons</hi> to ſcream againſt him, who diſgorg'd a world of falſe and frivolous Accu<g ref="char:EOLhyphen"/>ſations in the Council Houſe, but all came to nothing, for that Loyal Senate would not coun<g ref="char:EOLhyphen"/>tenance the Envious Calumnies of Male-con<g ref="char:EOLhyphen"/>tents. This made the <hi>MAGPIES</hi> and the reſt of their Gang ſtark mad, to ſee the <hi>Phoenix</hi> ſhine brighter for their Perſecution: So now they reſolv'd to hazard all at once, and make quick work on't. The <hi>Oſtrich</hi> muſt be ſent for over in all haſte, and the more to encourage him, the invited him to come as ſoon as the <hi>Eagle</hi> was gone to viſit ſome of his Allies and Friends abroad. Now the <hi>MAGPIES</hi> hopt about, longing for the day when the <hi>Eagle</hi> would take his flight beyond Sea, being then in their own Conceits, cock-ſure of reſtoring the <hi>OSTRICH</hi> again to his Crown. But as I have told you before, poor Pilgarlick the <hi>Pi<g ref="char:EOLhyphen"/>geon</hi> that was to carry the News to the <hi>Oſtrich,</hi> was caught in a Gin, with Two of his Compa<g ref="char:EOLhyphen"/>nions, and out came all the Treaſon. Theſe were all try'd for their Lives, and one of them was condemn'p to be choak'd with Hemp-ſeed. Now when the day of Execution was come, this <hi>Pigeon</hi> fell ſick with the very ſmell of the Hempſeed, and deſir'd that a certain <hi>MAGPY</hi> a Friend of his, would chatter over a Form of Prayer that was uſed among the <hi>MAGPIES</hi> in the <hi>Viſitation of the Sick.</hi> So the <hi>Magpy</hi> chatter'd, and the Pigeon coo'd, and having finiſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d their Devotions, the <hi>Pigeon very orderly</hi> took his Hempſeed, which ſoon ſpoil'd his cooing for ever after, to the great grief of the <hi>Magpies</hi> and their Gang. It would even grieve ones Heart to ſee how the <hi>MAGPIES</hi> ſneakt about a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter this fatal Blow? How humble and downiſh they look'd, not jetting it along as they us'd to do, and looking over your head, but in a more ſubmiſſive poſture, <hi>like good your Worſhip on a Wooden Leg,</hi> or like an Owl in an Ivy-Buſh, that cares not to be ſeen. <hi>Alas poor Mag!</hi> A Cup of Sack for Mag! Mag's a Rogue, ah poor Mag, Mag, Mag, not a word of the Pud<g ref="char:EOLhyphen"/>ding. <hi>Mag</hi>'s <hi>at hide and ſeek;</hi> and all the Gang are in a Spiritual Maze, as mute as Mum chance, that was hang'd for ſaying of nothing. What is become of the <hi>ſeven Golden Candle<g ref="char:EOLhyphen"/>ſticks?</hi> Why, by my Sol Man, I'ſt believe they'l aw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>turn Prince's Metal in a ſhort time, or the D—hale 'em by the Bread Lugs to H—</p>
+            <p>Good morrow Mr. Mayor of <hi>Queenborough.</hi> Slap, ſays the Caſement, down falls the leaden two pence. Confound your Worſhip, SIR.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <g ref="char:dtristar">*⁎*</g> On <hi>Friday</hi> Morning next will be publiſht <hi>Monſieur in a Mouſe-Trap,</hi> or the Parable of the <hi>Herring pond.</hi> By the Author of the <hi>Magpies.</hi>
+            </p>
+            <p>
+               <hi>The Hiſtory of the Royal Congreſs</hi> at the <hi>Hague,</hi> with the Names, Characters, and Equipage of the Soveraign Princes that compoſe this <hi>Moſt Auguſt Aſſembly,</hi> together with an Account of the Glorious Cannopy and Chair of State. The ſeveral curious and admirable Fireworks, the many Triumphal Arches, with the other vaſt Preparations made for His Majeſhy of <hi>Great Britain,</hi> with an exact Draught of the manner of King <hi>William</hi>'s <hi>entring into the Hague,</hi> and reception by the <hi>States General.</hi> Trauſlated from the Dutch Copy, Printed at <hi>Leiden.</hi>
+            </p>
+            <p>
+               <hi>An Account of the late Horrid Conſpiracy,</hi> to Depoſe their preſent Majeſties K. <hi>William</hi> and Queen <hi>Mary,</hi> to bring in the <hi>French,</hi> and the late King <hi>James,</hi> and ruin the City of <hi>London.</hi> Alſo ſome brief Reflections on the <hi>Tryals of the Lord Preſton and Aſhton. By</hi> a Gentleman who was preſent at thoſe Tryals.</p>
+            <p>Remarks upon the <hi>Life, Tryal, and Acquitment of Arthur Earl of Torrington.</hi>
+            </p>
+            <p>
+               <hi>A Penitentiary Sermon</hi> preach'd upon two young Perſons doing Pennance in a publick Congrega<g ref="char:EOLhyphen"/>tion, to which is added an accurate <hi>Treatiſe of Fornication,</hi> written upon an extraordinary occaſion, by <hi>W. Barlow,</hi> M. A.</p>
+            <p>
+               <hi>The Wonders of Free Grace,</hi> or, a compleat Hiſtory of all the Remarkable Penitents that have been Executed at <hi>Tyburn</hi> for theſe laſt <hi>30</hi> years, with a Sermon preached in the shearing of a <hi>Condemned Malefactor.</hi>
+            </p>
+            <p>
+               <hi>The third Volume of the Pocket Library</hi> (com<g ref="char:EOLhyphen"/>pleating the two former) containing a further account of the Author's <hi>Juvenile Rambles,</hi> with his firſt Project of girdling the World.</p>
+            <p>
+               <hi>The Vanity and Impiety of Judicial Aſtrology</hi> by <hi>Francis Owne, M. A.</hi>
+            </p>
+            <p>
+               <hi>The Triennial Mayor,</hi> or, <hi>the new Rapparees,</hi> a Satyr, Price <hi>6</hi> 
+               <abbr>d.</abbr>
+            </p>
+            <p>
+               <hi>The Antiweeſils,</hi> a Poem, price <hi>6</hi> 
+               <abbr>d.</abbr>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>B. Griffiitts,</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
